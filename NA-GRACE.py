@@ -153,7 +153,7 @@ def log_sel():
 
 #  RECODE AAHIL
 
-"""%(h))
+
 os.system("clear")
 banner()
 def chk():
